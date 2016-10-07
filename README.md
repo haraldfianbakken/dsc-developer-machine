@@ -1,6 +1,6 @@
 # Desired State Configuration - Developer machine 
 
-A DSC configuration for setting up a developer machine with a base set of packages.
+A DSC configuration for setting up a developer machine with a base set of packages. This will work on Windows Server (2012 / 2016), Windows 7/8/10 with WMF 5 installed. You can automate your setup on either local machine or a hyper-v 
 
 ## Pre-requisites
 
